@@ -1,4 +1,4 @@
-# InevitableTickTacToe
+# InevitableTTT
 
 A terminal-based implementation of Tic-Tac-Toe powered entirely by a pure Minimax algorithm.
 
